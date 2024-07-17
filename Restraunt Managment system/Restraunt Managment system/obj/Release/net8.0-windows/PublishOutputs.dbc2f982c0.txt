@@ -1,0 +1,14 @@
+E:\work\Restraunt Managment system.exe
+E:\work\Restraunt Managment system.dll
+E:\work\Restraunt Managment system.deps.json
+E:\work\Restraunt Managment system.runtimeconfig.json
+E:\work\Restraunt Managment system.pdb
+E:\work\Guna.UI2.dll
+E:\work\System.Data.SqlClient.dll
+E:\work\System.Management.dll
+E:\work\runtimes\win-arm64\native\sni.dll
+E:\work\runtimes\win-x64\native\sni.dll
+E:\work\runtimes\win-x86\native\sni.dll
+E:\work\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\work\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\work\runtimes\win\lib\net7.0\System.Management.dll

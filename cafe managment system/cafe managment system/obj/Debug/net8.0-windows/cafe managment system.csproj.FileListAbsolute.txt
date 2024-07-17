@@ -1,0 +1,26 @@
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\cafe managment system.exe
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\cafe managment system.deps.json
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\cafe managment system.runtimeconfig.json
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\cafe managment system.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\cafe managment system.pdb
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe_managment_system.Form1.resources
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe_managment_system.Properties.Resources.resources
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.AssemblyInfo.cs
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\refint\cafe managment system.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.pdb
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.genruntimeconfig.cache
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\ref\cafe managment system.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe managment system.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe man.C27F61B5.Up2Date
+C:\Users\DELL\source\repos\cafe managment system\cafe managment system\obj\Debug\net8.0-windows\cafe_managment_system.Welcome_page.resources

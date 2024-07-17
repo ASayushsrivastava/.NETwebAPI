@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\cafe managment system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5736931-CF7E-4FE0-84FC-6AFC095EFAA8}|cafe managment system\\cafe managment system.csproj|c:\\users\\dell\\source\\repos\\cafe managment system\\cafe managment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5736931-CF7E-4FE0-84FC-6AFC095EFAA8}|cafe managment system\\cafe managment system.csproj|solutionrelative:cafe managment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5736931-CF7E-4FE0-84FC-6AFC095EFAA8}|cafe managment system\\cafe managment system.csproj|C:\\Users\\DELL\\source\\repos\\cafe managment system\\cafe managment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5736931-CF7E-4FE0-84FC-6AFC095EFAA8}|cafe managment system\\cafe managment system.csproj|solutionrelative:cafe managment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cafe managment system\\cafe managment system\\Form1.cs",
+              "RelativeDocumentMoniker": "cafe managment system\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cafe managment system\\cafe managment system\\Form1.cs",
+              "RelativeToolTip": "cafe managment system\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwCUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:54:07.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cafe managment system\\cafe managment system\\Form1.cs",
+              "RelativeDocumentMoniker": "cafe managment system\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cafe managment system\\cafe managment system\\Form1.cs [Design]",
+              "RelativeToolTip": "cafe managment system\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:04:30.919Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

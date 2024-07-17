@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\Restraunt Managment system.exe
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\Restraunt Managment system.deps.json
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\Restraunt Managment system.runtimeconfig.json
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\Restraunt Managment system.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\Restraunt Managment system.pdb
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt_Managment_system.Category.resources
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt_Managment_system.Items.resources
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt_Managment_system.Properties.Resources.resources
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt_Managment_system.Users.resources
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraun.69DBE549.Up2Date
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\refint\Restraunt Managment system.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.pdb
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt Managment system.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\ref\Restraunt Managment system.dll
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt_Managment_system.Billing.resources
+C:\Users\DELL\source\repos\Restraunt Managment system\Restraunt Managment system\obj\Debug\net8.0-windows\Restraunt_Managment_system.Login.resources
